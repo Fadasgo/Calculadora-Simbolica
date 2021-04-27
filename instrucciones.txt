@@ -1,0 +1,13 @@
+Integrantes: Moises González 11-10406 
+             Fabio Suárez    12-10578
+
+Para correr el programa una vez en la terminal ejecutar las siguientes
+dos instrucciones:
+
+>>ghci main  
+>>solve x
+
+    donde x es la expresion en Term que se desea integrar.
+
+Por último abrir el archivo generado por el programa llamado index.html para 
+visualizar la solución.
